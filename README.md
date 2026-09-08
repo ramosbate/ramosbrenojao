@@ -1,5 +1,8 @@
 # Zezé Shunner
-
+Equipe:
+- João Antônio Vargas
+- Gabriel Ramos 
+- Breno Henrique
 ## Narrativa
 📋 O jogo é baseado na história de um homem que busca espalhar seus ideais por aí e derrotar os ignorantes que esão por aí.
 
